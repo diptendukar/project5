@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -fno-rtti -g  -shared  -o libbofsan.so CMakeFiles/bofsan.dir/bofsan.cpp.o 

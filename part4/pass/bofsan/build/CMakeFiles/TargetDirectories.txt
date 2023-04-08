@@ -1,0 +1,6 @@
+/home/diptendu/Desktop/project5/part4/pass/bofsan/build/CMakeFiles/rebuild_cache.dir
+/home/diptendu/Desktop/project5/part4/pass/bofsan/build/CMakeFiles/bofsan.dir
+/home/diptendu/Desktop/project5/part4/pass/bofsan/build/CMakeFiles/acc_gen.dir
+/home/diptendu/Desktop/project5/part4/pass/bofsan/build/CMakeFiles/edit_cache.dir
+/home/diptendu/Desktop/project5/part4/pass/bofsan/build/CMakeFiles/omp_gen.dir
+/home/diptendu/Desktop/project5/part4/pass/bofsan/build/CMakeFiles/intrinsics_gen.dir
